@@ -1,8 +1,8 @@
 <?php
 /*
-Plugin Name: Plugin Template
+Plugin Name: AW Login Time Extend
 Plugin URI: https://careru.jp/
-Description: Sample Plugin.
+Description: ログイン期限を実質無期限にする
 Author: Alternative Works
 Version: 0.0.1
 Author URI: https://careru.jp/
