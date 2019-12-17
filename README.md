@@ -1,5 +1,5 @@
-# wp-plugin-template
- WordPressプラグイン開発用雛形
+# AW Login Time Extend
+ ログイン期限を1年にする
 
 開発時には`gh-auto-updater`のインストールを忘れない
 
